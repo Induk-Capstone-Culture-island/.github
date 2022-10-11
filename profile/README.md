@@ -12,4 +12,4 @@
 [링크]
 
 ## 요구사항 분석
-[바로가기👈](https://github.com/Induk-Capstone-Culture-island/.github#%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EB%B6%84%EC%84%9D)
+[**바로가기👈**](https://github.com/Induk-Capstone-Culture-island/.github#%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EB%B6%84%EC%84%9D)
