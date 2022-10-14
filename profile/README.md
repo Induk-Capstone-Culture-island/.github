@@ -1,4 +1,4 @@
-# 너만의 전시회
+# 🖼 너만의 전시회
 2022 인덕대학교 3학년 2학기 캡스톤 디자인
 
 전영준
@@ -8,7 +8,7 @@
 서민식
 윤재원
 
-## Notion
+## 📔 Notion
 <a href="https://own-exhibition.notion.site/Own-Exhibition-61d2dcf0983a4ea393301c9f2453374a" target="_blank">**바로가기👈**</a>
 
 ## API Doc
