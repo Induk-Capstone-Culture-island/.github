@@ -9,9 +9,7 @@
 윤재원
 
 ## 📔 Notion
-<a href="https://own-exhibition.notion.site/Own-Exhibition-61d2dcf0983a4ea393301c9f2453374a/" target="_blank">**바로가기👈**</a>
-
-<a href="https://www.naver.com/" target="_blank">네이버</a>
+[**바로가기👈**](https://own-exhibition.notion.site/Own-Exhibition-61d2dcf0983a4ea393301c9f2453374a)
 
 ## API Doc
 [**링크**](https://github.com/Induk-Capstone-Culture-island/.github/your_exhibition_API.html)
